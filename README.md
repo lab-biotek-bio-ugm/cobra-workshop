@@ -9,6 +9,6 @@ Materi ini ditulis dalam rangka mendampingi workshop Brainstorming BIOS yang dis
 
 [**Slide pengantar workshop dapat diakses di sini.**](cell-factory-design-ugm-2021.pdf)
 
-[**Notebook workshop dapat diakses di sini.**](cell-factory-design-ugm-2021.ipynb)
+[**Notebook workshop dapat diakses di sini.**](https://nbviewer.jupyter.org/github/lab-biotek-bio-ugm/cobra-workshop/blob/main/cell-factory-design-ugm-2021.ipynb)
 
 Karena materi pada workshop ini lebih ke arah praktis, ada baiknya peserta juga mempelajari materi / kuliah [**Transformasi Digital**](https://elok.ugm.ac.id/course/view.php?id=632) (skill dasar Python), [**Bioinformatika**](https://elok.ugm.ac.id/course/view.php?id=1136), dan **Bioteknologi** (Pengantar Systems & Synthetic Biology). Materi kuliah pengantar systems & synthetic biology (archive Kuliah Bioteknologi semester genap 2020) dapat diakses di: http://ugm.id/lectsystembio2020 & http://ugm.id/lectsyntheticbio2020
